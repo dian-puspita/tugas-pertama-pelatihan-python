@@ -15,15 +15,16 @@ Program sederhana untuk:
    
    ```bash
    python Project1_introduction_python.py
-````
+
 
 3. Ikuti instruksi input di layar
 
----
+
 
 **Catatan:**
 Tugas ini merupakan bagian dari pelatihan **Digital Skill Fair 40.0 - Faculty of Data (DS)** oleh **Dibimbing.id**.
 
----
+
 
 *Created by Delastrada Dian Puspita*
+---

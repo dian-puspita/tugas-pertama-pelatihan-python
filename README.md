@@ -11,9 +11,10 @@ Program sederhana untuk:
 ### Cara menjalankan
 
 1. Pastikan Python sudah terpasang di komputer  
-2. Jalankan program dengan perintah:  
+2. Jalankan program dengan perintah:
+   
    ```bash
-   python nama_file.py
+   python Project1_introduction_python.py
 ````
 
 3. Ikuti instruksi input di layar
